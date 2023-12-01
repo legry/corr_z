@@ -8,7 +8,7 @@
     "n-readlines": "^1.0.1",
     "node-prefs": "^1.0.8"
   },
-  "name": "readfiles",
+  "name": "corr_z",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
